@@ -58,7 +58,7 @@ public final class InputManager implements KeyListener {
 		if (key.getKeyCode() >= 0 && key.getKeyCode() < NUM_KEYS)
 			keys[key.getKeyCode()] = true;
 	}
-
+	//d
 	/**
 	 * Changes the state of the key to not pressed.
 	 * 
